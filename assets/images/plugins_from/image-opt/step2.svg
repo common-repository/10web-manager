@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="159.776" height="135"
+     viewBox="0 0 159.776 135">
+    <defs>
+        <style>
+            .a{fill:#f4f5f5;}.b{fill:#323a45;opacity:0.05;}.c,.f,.h{fill:#fff;}.d{fill:none;}.e{fill:#4786ff;}.f{opacity:0.95;}.g{fill:#f8c332;stroke:#f6b400;}.h{stroke:#fb0;}.i{stroke:none;}.j{filter:url(#a);}
+        </style>
+        <filter id="a" x="24.776" y="0" width="135" height="135" filterUnits="userSpaceOnUse">
+            <feOffset dy="5" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="10" result="b"/>
+            <feFlood flood-color="#e5e6e8" flood-opacity="0.8"/>
+            <feComposite operator="in" in2="b"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g transform="translate(-620.224 -1985)">
+        <rect class="a" width="22.879" height="22.88" transform="translate(721.391 2091.12)"/>
+        <path class="b"
+              d="M1.815-92.964h-74.4V-111.2l25.035-25.315q10.729-11.22,14.025-15.322a33.563,33.563,0,0,0,4.593-7.048,15.146,15.146,0,0,0,1.3-6.171,8.027,8.027,0,0,0-2.595-6.311q-2.595-2.314-7.293-2.314a19.9,19.9,0,0,0-9.783,2.77,70.166,70.166,0,0,0-11.185,8.17l-15.217-17.812a82.077,82.077,0,0,1,13.324-10.133,47.582,47.582,0,0,1,11.746-4.663,58.029,58.029,0,0,1,14.271-1.613,43.013,43.013,0,0,1,17.777,3.506,27.818,27.818,0,0,1,12.132,9.993A25.7,25.7,0,0,1-.149-168.911a39.327,39.327,0,0,1-1.508,11.15A39.376,39.376,0,0,1-6.32-147.7a69.565,69.565,0,0,1-8.38,10.414q-5.224,5.47-22.265,20.757v.7H1.815Z"
+              transform="translate(693.935 2206.961)"/>
+        <g transform="translate(-328 -100)">
+            <g transform="translate(1003 2110)">
+                <g class="j" transform="matrix(1, 0, 0, 1, -54.78, -25)">
+                    <path class="c"
+                          d="M37.5,75C74.711,75,75,58.211,75,37.5S74.711,0,37.5,0,0,16.789,0,37.5.289,75,37.5,75Z"
+                          transform="translate(54.78 25)"/>
+                </g>
+            </g>
+            <g transform="translate(681 139)">
+                <rect class="d" width="46" height="46" transform="translate(339 1987)"/>
+                <g transform="translate(339.657 1990.286)">
+                    <g transform="translate(0 0)">
+                        <path class="e"
+                              d="M4.664,0H32.68a4.664,4.664,0,0,1,4.664,4.664V29.48a4.664,4.664,0,0,1-4.664,4.664H4.664A4.664,4.664,0,0,1,0,29.48V4.664A4.664,4.664,0,0,1,4.664,0Z"
+                              transform="translate(0 0)"/>
+                        <path class="f"
+                              d="M22.465.642h0A2.01,2.01,0,0,0,21.176.1a1.688,1.688,0,0,0-1.289.542L7.918,12.194,3.314,7.5a2.029,2.029,0,0,0-2.762,0,1.721,1.721,0,0,0,0,2.527l6.077,5.957a1.688,1.688,0,0,0,1.289.542,1.688,1.688,0,0,0,1.289-.542L22.281,3.169A1.6,1.6,0,0,0,22.465.642Z"
+                              transform="translate(6.86 8.633)"/>
+                    </g>
+                    <g transform="translate(22.164 25.496)">
+                        <g class="g" transform="translate(0 0)">
+                            <rect class="i" width="21.462" height="12.877" rx="6.439"/>
+                            <rect class="d" x="0.5" y="0.5" width="20.462" height="11.877" rx="5.939"/>
+                        </g>
+                        <g class="h" transform="translate(8.585 0)">
+                            <rect class="i" width="12.877" height="12.877" rx="6.439"/>
+                            <rect class="d" x="0.5" y="0.5" width="11.877" height="11.877" rx="5.939"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

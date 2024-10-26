@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+    <defs>
+        <style>
+            .a{fill:none;}.b{fill:#4786ff;}.c,.e{fill:#fff;}.c{opacity:0.95;}.d{fill:#f8c332;stroke:#f6b400;}.e{stroke:#fb0;}.f{stroke:none;}
+        </style>
+    </defs>
+    <g transform="translate(-339 -1987)">
+        <rect class="a" width="70" height="70" transform="translate(339 1987)"/>
+        <g transform="translate(72 10)">
+            <g transform="translate(268 1982)">
+                <path class="b"
+                      d="M7.1,0H49.731a7.1,7.1,0,0,1,7.1,7.1V44.861a7.1,7.1,0,0,1-7.1,7.1H7.1a7.1,7.1,0,0,1-7.1-7.1V7.1A7.1,7.1,0,0,1,7.1,0Z"
+                      transform="translate(0 0)"/>
+                <path class="c"
+                      d="M34.186.924h0A3.058,3.058,0,0,0,32.224.1a2.568,2.568,0,0,0-1.961.824L12.049,18.5,5.044,11.362a3.087,3.087,0,0,0-4.2,0,2.619,2.619,0,0,0,0,3.845l9.247,9.064a2.568,2.568,0,0,0,1.961.824,2.568,2.568,0,0,0,1.961-.824L33.905,4.77A2.44,2.44,0,0,0,34.186.924Z"
+                      transform="translate(10.439 13.189)"/>
+            </g>
+            <g transform="translate(301.727 2020.798)">
+                <g class="d" transform="translate(0 0)">
+                    <rect class="f" width="32.659" height="19.596" rx="9.798"/>
+                    <rect class="a" x="0.5" y="0.5" width="31.659" height="18.596" rx="9.298"/>
+                </g>
+                <g class="e" transform="translate(13.064 0)">
+                    <rect class="f" width="19.596" height="19.596" rx="9.798"/>
+                    <rect class="a" x="0.5" y="0.5" width="18.596" height="18.596" rx="9.298"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

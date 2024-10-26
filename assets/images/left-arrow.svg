@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6.375 10.5">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: #323a45;
+            stroke: #323a45;
+            stroke-width: 0.5px;
+            }
+        </style>
+    </defs>
+    <g id="left-arrow" transform="translate(-101.23 0.25)">
+        <g id="Group_53948" data-name="Group 53948" transform="translate(101.48 0)">
+            <path id="Path_107435" data-name="Path 107435" class="cls-1"
+                  d="M103.454,5,107.2,1.261a.548.548,0,0,0,0-.773L106.867.16a.548.548,0,0,0-.774,0l-4.454,4.454a.552.552,0,0,0,0,.776l4.45,4.45a.548.548,0,0,0,.774,0l.328-.328a.548.548,0,0,0,0-.774Z"
+                  transform="translate(-101.48 0)"/>
+        </g>
+    </g>
+</svg>

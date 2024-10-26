@@ -1,0 +1,18 @@
+<svg id="light" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980.044"
+     height="53.409" viewBox="0 0 980.044 53.409">
+    <defs>
+        <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#fafbfc"/>
+        </linearGradient>
+    </defs>
+    <g id="Group_67905" data-name="Group 67905">
+        <rect id="Rectangle" width="980.044" height="53.409" fill="url(#linear-gradient)"/>
+        <ellipse id="Oval" cx="7.128" cy="7.121" rx="7.128" ry="7.121" transform="translate(64.148 19.583)"
+                 fill="#34c749"/>
+        <ellipse id="Oval-2" data-name="Oval" cx="7.128" cy="7.121" rx="7.128" ry="7.121"
+                 transform="translate(40.984 19.583)" fill="#fdbc40"/>
+        <ellipse id="Oval-3" data-name="Oval" cx="7.128" cy="7.121" rx="7.128" ry="7.121"
+                 transform="translate(17.819 19.583)" fill="#fc605c"/>
+    </g>
+</svg>

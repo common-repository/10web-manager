@@ -1,0 +1,105 @@
+.tenweb_overlay {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 9999;
+    background: #000;
+    opacity: 0.5;
+    display: none;
+}
+
+.tenweb_popup_container {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: #fff;
+    z-index: 999999;
+    width: 600px;
+    height: 263px;
+    margin: auto;
+    display: none;
+    box-sizing: border-box;
+}
+
+.tenweb_header {
+    border-bottom: 1px solid #ccc;
+    padding: 18px 40px;
+    font-size: 16px;
+    background: rgba(221, 221, 221, 0.14);
+}
+
+.tenweb_popup_close {
+    background-image: url("../images/close_popup.svg");
+    background-repeat: no-repeat;
+    background-size: 16px;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.tenweb_popup_content {
+    padding: 20px 40px;
+    border-bottom: 1px solid #ccc;
+}
+
+.tenweb_popup_container .tenweb_button {
+    position: absolute;
+    bottom: 19px;
+    right: 19px;
+}
+
+.checkbox_container {
+    display: none;
+}
+
+.tenweb_technical_active {
+    display: none;
+    background: rgba(204, 204, 204, 0.18);
+    padding: 15px;
+    margin: 14px 0px 5px;
+    width: 100%;
+
+}
+
+.tenweb_technical_active textarea {
+    width: 100%
+}
+
+.technical_email {
+    font-size: 15px;
+}
+
+.tenweb_i_dont_understand {
+    display: none;
+    background: rgba(204, 204, 204, 0.18);
+    padding: 15px;
+    margin: 14px 0px 5px;
+    width: 100%;
+}
+
+.tenweb_i_dont_understand textarea {
+    width: 100%;
+}
+
+.tenweb_popup_active1 {
+    height: 560px;
+}
+
+.tenweb_popup_active2 {
+    height: 317px;
+}
+
+.tenweb_active {
+    display: block;
+    background: rgba(204, 204, 204, 0.18);
+    padding: 15px;
+    margin: 14px 0px 5px;
+}

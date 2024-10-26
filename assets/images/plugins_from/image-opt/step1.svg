@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="157" height="135"
+     viewBox="0 0 157 135">
+    <defs>
+        <style>
+            .a{fill:#f3f3f3;}.b{fill:#323a45;opacity:0.05;}.c{fill:#fff;}.d{fill:#4786ff;}.e{fill:#e8ecf2;}.f{fill:#f8c332;}.g{filter:url(#a);}
+        </style>
+        <filter id="a" x="22" y="0" width="135" height="135" filterUnits="userSpaceOnUse">
+            <feOffset dy="5" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="10" result="b"/>
+            <feFlood flood-color="#e5e6e8" flood-opacity="0.8"/>
+            <feComposite operator="in" in2="b"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g transform="translate(-363.001 -1985)">
+        <rect class="a" width="22.88" height="22.88" transform="translate(434.403 2089.992)"/>
+        <path class="b"
+              d="M-7.5-90.172H-36.023v-55.059q0-10.03.427-18.353A61,61,0,0,1-42.14-156.9l-11.808,9.746-14.583-17.926,35.71-29.094H-7.5Z"
+              transform="translate(431.532 2204.172)"/>
+        <g transform="translate(224.47 -2336.743)">
+            <g class="g" transform="matrix(1, 0, 0, 1, 138.53, 4321.74)">
+                <path class="c" d="M37.5,75C74.711,75,75,58.211,75,37.5S74.711,0,37.5,0,0,16.789,0,37.5.289,75,37.5,75Z"
+                      transform="translate(52 25)"/>
+            </g>
+            <g transform="translate(206.33 4364.793)">
+                <path class="d" d="M126.041,140.773a20.3,20.3,0,1,1,20.3-20.3A20.323,20.323,0,0,1,126.041,140.773Z"
+                      transform="translate(-105.739 -100.174)"/>
+                <path class="e"
+                      d="M160.025,198.543a8.271,8.271,0,1,0-9.9,0,20.285,20.285,0,0,0-10.816,6.906,20.279,20.279,0,0,0,31.532,0A20.285,20.285,0,0,0,160.025,198.543Z"
+                      transform="translate(-134.773 -172.375)"/>
+                <g transform="translate(25.524 27.437)">
+                    <ellipse class="f" cx="9.641" cy="9.64" rx="9.641" ry="9.64" transform="translate(0 0)"/>
+                    <path class="c"
+                          d="M50.444,43.82H46.427V39.8a.8.8,0,0,0-1.607,0V43.82H40.8a.8.8,0,1,0,0,1.607H44.82v4.017a.8.8,0,0,0,1.607,0V45.427h4.017a.8.8,0,1,0,0-1.607Z"
+                          transform="translate(-35.983 -34.983)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
